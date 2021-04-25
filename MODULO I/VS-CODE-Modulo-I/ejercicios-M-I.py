@@ -16,19 +16,6 @@ b = input("What is your name: ")
 print(b)
 print("hello", b)
 
-## PROBLEMA 2:
-# Leer llave sustitucion y solicitar plaintext
-# * Obtengo una lista con el abecedario
-# * Reccoro letra por letra de plaintext, identifico la posición de la 
-#   letra en el abecedario y se reemplaza por la posición de la letra en la llave 
-#   sustitición
-##----FALTA RESOLVER EL CODIGO--
-
-
-
-
-
-
 ## PROBLEMA DIVERSOS:
 ## ejercicio 1-
 #--Imagina que acabas de abrir una nueva cuenta de ahorros que te ofrece el 4% de interés 
